@@ -151,6 +151,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  actionmailer (~> 6.0, >= 6.0.2.2)
   bootsnap (>= 1.4.2)
   byebug
   faker
